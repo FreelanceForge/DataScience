@@ -47,6 +47,15 @@ Uncover insights related to the correlation between mobile phone features and pr
 <p align="center">
   <img src="Mobile Price Prediction Images/graph-1.png" alt="graph-1">
 </p>
+<p align="center">
+  <img src="Mobile Price Prediction Images/graph-2.png" alt="graph-2">
+</p>
+<p align="center">
+  <img src="Mobile Price Prediction Images/graph-3.png" alt="graph-3">
+</p>
+<p align="center">
+  <img src="Mobile Price Prediction Images/graph-4.png" alt="graph-4">
+</p>
 
 ## 3) Feature Engineering:
 Apply rigorous feature engineering techniques to enhance the robustness of the dataset.
