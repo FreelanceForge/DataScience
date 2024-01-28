@@ -71,9 +71,6 @@ Uncover insights related to the correlation between mobile phone features and pr
 <p align="center">
   <img src="Mobile Price Prediction Images/graph-9.png" alt="graph-9">
 </p>
-<p align="center">
-  <img src="Mobile Price Prediction Images/graph-10.png" alt="graph-10">
-</p>  
 ## 3) Feature Engineering:
 Apply rigorous feature engineering techniques to enhance the robustness of the dataset.
 Incorporate log-normal distribution and address missing data points strategically.
@@ -90,3 +87,6 @@ Train the model on the curated dataset to achieve a high level of accuracy.
 Evaluate the trained model's performance using metrics such as precision, recall, and F1-score.
 Analyze the model's effectiveness in categorizing mobile phones into distinct price ranges.
 
+<p align="center">
+  <img src="Mobile Price Prediction Images/graph-10.png" alt="graph-10">
+</p>  
