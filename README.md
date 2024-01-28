@@ -71,17 +71,34 @@ Uncover insights related to the correlation between mobile phone features and pr
 <p align="center">
   <img src="Mobile Price Prediction Images/graph-9.png" alt="graph-9">
 </p>
+
 ## 3) Feature Engineering:
-Apply rigorous feature engineering techniques to enhance the robustness of the dataset.
-Incorporate log-normal distribution and address missing data points strategically.
+Subsequently, rigorous feature engineering was undertaken to enhance the robustness of the dataset
+### Log-Normal Distribution:
+Incorporated a log-normal distribution to transform relevant features, ensuring a more normalized and representative distribution for model training.
+### Handling Missing Data:
+Addressed missing data points using appropriate strategies, such as imputation or removal, to ensure a complete and informative dataset.
+### Outlier Removal:
+Strategically removed non-informative outliers to improve the model's accuracy and reliability. This step involved careful consideration of the impact of outliers on the predictive performance.
+
 
 ## 4) Feature Selection:
-Utilize correlation analysis to identify and retain the most influential features.
-Streamline the dataset to optimize predictive accuracy by removing non-informative outliers.
+Feature selection was a crucial step in optimizing the model's performance:
+### Correlation Analysis:
+- Leveraged correlation analysis to identify and retain only the most influential features.
+- Removed redundant or highly correlated features to streamline the dataset for optimal predictive accuracy.
 
 ## 5) Model Training:
-Implement a RandomForestClassifier model for price range prediction.
-Train the model on the curated dataset to achieve a high level of accuracy.
+The final step involved training a RandomForestClassifier model with the refined dataset:
+### Model Type:
+Implemented a RandomForestClassifier, a robust ensemble learning model known for its effectiveness in classification tasks.
+### Training Accuracy:
+Achieved an impressive accuracy of 92.75% during the training phase, showcasing the model's capability to learn and generalize from the dataset.
+### Classification Report:
+The model's classification report provides detailed metrics:
+- Precision: Indicates the accuracy of positive predictions.
+- Recall: Measures the model's ability to capture all relevant instances.
+- F1-score: Harmonic mean of precision and recall, offering a balanced assessment.
 
 ## 6) Model Evaluation:
 Evaluate the trained model's performance using metrics such as precision, recall, and F1-score.
