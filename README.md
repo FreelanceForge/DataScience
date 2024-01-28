@@ -1,4 +1,5 @@
-# Rainfall-Prediction-END-END-
+# DataScience
+# Project :: Rainfall-Prediction-END-END
 
 Overall look of front-end
 we have used HTML, CSS, BOOTSTRAP, FLASK
@@ -31,3 +32,9 @@ We used RandomForest classifier and we achived 83 percent accuracy and most impo
 We also analyzed our predictions using appropriate metrics.
 
 We also tried the artifical neuron network (ANN) where we achived 79 percent accuracy.
+
+# Project :: Mobile Price Prediction System
+## Project Description
+Bob, the visionary founder of a burgeoning mobile company, recognizes the fierce competition in the market and understands the pivotal role data science plays in gaining a competitive edge. In an effort to strategically position his products, Bob has initiated a Mobile Price Prediction System. This sophisticated system analyzes diverse features of mobile phones to predict their price range, enabling Bob's company to offer competitive products against industry giants like Apple and Samsung
+
+
