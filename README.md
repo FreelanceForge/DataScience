@@ -111,4 +111,6 @@ To make the Mobile Price Prediction System accessible and user-friendly, a Flask
 - Flask Framework:
   - Utilized the Flask framework to create a web application.
   - Enabled seamless integration of the trained model for real-time predictions.
- 
+- User Interface:
+  - Designed a user-friendly interface for users to input mobile phone features.
+  - Integrated the trained model to predict and display the estimated price range.
