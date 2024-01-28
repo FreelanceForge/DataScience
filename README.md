@@ -40,5 +40,23 @@ Bob, the visionary founder of a burgeoning mobile company, recognizes the fierce
 ## 1) Data Collection:
 Gather a comprehensive dataset containing diverse features of mobile phones, including specifications, features, and pricing information.
 
+## 2) Data Exploration and Analysis:
+Conduct in-depth data analysis using various visualization techniques such as 📊 pie charts, 📈 bar graphs, 📊 histograms, and 📊 box-whisker plots.
+Uncover insights related to the correlation between mobile phone features and pricing.
 
+## 3) Feature Engineering:
+Apply rigorous feature engineering techniques to enhance the robustness of the dataset.
+Incorporate log-normal distribution and address missing data points strategically.
+
+## 4) Feature Selection:
+Utilize correlation analysis to identify and retain the most influential features.
+Streamline the dataset to optimize predictive accuracy by removing non-informative outliers.
+
+## 5) Model Training:
+Implement a RandomForestClassifier model for price range prediction.
+Train the model on the curated dataset to achieve a high level of accuracy.
+
+## 6) Model Evaluation:
+Evaluate the trained model's performance using metrics such as precision, recall, and F1-score.
+Analyze the model's effectiveness in categorizing mobile phones into distinct price ranges.
 
