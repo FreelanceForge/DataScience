@@ -45,29 +45,20 @@ Conduct in-depth data analysis using various visualization techniques such as ðŸ
 Uncover insights related to the correlation between mobile phone features and pricing.
 
 <p align="center">
-  <img src="Mobile Price Prediction Images/graph-1.png" alt="graph-1">
+  <img src="Mobile Price Prediction Images/graph-1.png" alt="graph-1" width="200"/>
+  <img src="Mobile Price Prediction Images/graph-2.png" alt="graph-2" width="200"/>
+  <img src="Mobile Price Prediction Images/graph-3.png" alt="graph-3" width="200"/>
+  <img src="Mobile Price Prediction Images/graph-4.png" alt="graph-4" width="200"/>
+  <img src="Mobile Price Prediction Images/graph-5.png" alt="graph-5" width="200"/>
 </p>
 <p align="center">
-  <img src="Mobile Price Prediction Images/graph-2.png" alt="graph-2">
+  <img src="Mobile Price Prediction Images/graph-6.png" alt="graph-6" width="200"/>
+  <img src="Mobile Price Prediction Images/graph-7.png" alt="graph-7" width="200"/>
+  <img src="Mobile Price Prediction Images/graph-8.png" alt="graph-8" width="200"/>
+  <img src="Mobile Price Prediction Images/graph-9.png" alt="graph-9" width="200"/>
+  <img src="Mobile Price Prediction Images/graph-10.png" alt="graph-10" width="200"/>
 </p>
-<p align="center">
-  <img src="Mobile Price Prediction Images/graph-3.png" alt="graph-3">
-</p>
-<p align="center">
-  <img src="Mobile Price Prediction Images/graph-4.png" alt="graph-4">
-</p>
-<p align="center">
-  <img src="Mobile Price Prediction Images/graph-5.png" alt="graph-5">
-</p>
-<p align="center">
-  <img src="Mobile Price Prediction Images/graph-6.png" alt="graph-6">
-</p>
-<p align="center">
-  <img src="Mobile Price Prediction Images/graph-7.png" alt="graph-7">
-</p>
-<p align="center">
-  <img src="Mobile Price Prediction Images/graph-8.png" alt="graph-8">
-</p>
+
 ## 3) Feature Engineering:
 Apply rigorous feature engineering techniques to enhance the robustness of the dataset.
 Incorporate log-normal distribution and address missing data points strategically.
