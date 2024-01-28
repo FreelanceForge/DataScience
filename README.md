@@ -59,18 +59,14 @@ Uncover insights related to the correlation between mobile phone features and pr
 <p align="center">
   <img src="Mobile Price Prediction Images/graph-5.png" alt="graph-5">
 </p>
-<p align="center">
-  <img src="Mobile Price Prediction Images/graph-6.png" alt="graph-6">
-</p>
+
 <p align="center">
   <img src="Mobile Price Prediction Images/graph-7.png" alt="graph-7">
 </p>
 <p align="center">
   <img src="Mobile Price Prediction Images/graph-8.png" alt="graph-8">
 </p>
-<p align="center">
-  <img src="Mobile Price Prediction Images/graph-9.png" alt="graph-9">
-</p>
+
 
 ## 3) Feature Engineering:
 Subsequently, rigorous feature engineering was undertaken to enhance the robustness of the dataset
@@ -81,12 +77,25 @@ Addressed missing data points using appropriate strategies, such as imputation o
 ### Outlier Removal:
 Strategically removed non-informative outliers to improve the model's accuracy and reliability. This step involved careful consideration of the impact of outliers on the predictive performance.
 
+<p align="center">
+  <img src="Mobile Price Prediction Images/graph-6.png" alt="graph-6">
+</p>
+<p align="center">
+  <img src="Mobile Price Prediction Images/graph-7.png" alt="graph-7">
+</p>
+<p align="center">
+  <img src="Mobile Price Prediction Images/graph-8.png" alt="graph-8">
+</p>
 
 ## 4) Feature Selection:
 Feature selection was a crucial step in optimizing the model's performance:
 ### Correlation Analysis:
 - Leveraged correlation analysis to identify and retain only the most influential features.
 - Removed redundant or highly correlated features to streamline the dataset for optimal predictive accuracy.
+<p align="center">
+  <img src="Mobile Price Prediction Images/graph-9.png" alt="graph-9">
+</p>
+  
 
 ## 5) Model Training:
 The final step involved training a RandomForestClassifier model with the refined dataset:
