@@ -121,3 +121,7 @@ To make the Mobile Price Prediction System accessible and user-friendly, a Flask
 <p align="center">
   <img src="Mobile Price Prediction Images/front-end.png" alt="front-end">
 </p> 
+
+## Conclusion
+This Mobile Price Prediction System not only equips Bob's company with a powerful tool for informed decision-making but also demonstrates my proficiency in data analysis, feature engineering, and machine learning model development. The project's success, as evidenced by the high accuracy and comprehensive classification report, highlights my ability to leverage data science for strategic business insights. 🚀
+
