@@ -100,10 +100,12 @@ The model's classification report provides detailed metrics:
 - Recall: Measures the model's ability to capture all relevant instances.
 - F1-score: Harmonic mean of precision and recall, offering a balanced assessment.
 
+<p align="center">
+  <img src="Mobile Price Prediction Images/graph-10.png" alt="graph-10">
+</p> 
+
 ## 6) Model Evaluation:
 Evaluate the trained model's performance using metrics such as precision, recall, and F1-score.
 Analyze the model's effectiveness in categorizing mobile phones into distinct price ranges.
 
-<p align="center">
-  <img src="Mobile Price Prediction Images/graph-10.png" alt="graph-10">
-</p>  
+ 
