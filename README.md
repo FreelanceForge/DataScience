@@ -106,8 +106,9 @@ The model's classification report provides detailed metrics:
   <img src="Mobile Price Prediction Images/graph-10.png" alt="graph-10">
 </p> 
 
-## 6) Model Evaluation:
-Evaluate the trained model's performance using metrics such as precision, recall, and F1-score.
-Analyze the model's effectiveness in categorizing mobile phones into distinct price ranges.
-
+## 6) Flask App for Prediction:
+To make the Mobile Price Prediction System accessible and user-friendly, a Flask web application was developed:
+- Flask Framework:
+  - Utilized the Flask framework to create a web application.
+  - Enabled seamless integration of the trained model for real-time predictions.
  
