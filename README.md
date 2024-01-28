@@ -44,6 +44,10 @@ Gather a comprehensive dataset containing diverse features of mobile phones, inc
 Conduct in-depth data analysis using various visualization techniques such as 📊 pie charts, 📈 bar graphs, 📊 histograms, and 📊 box-whisker plots.
 Uncover insights related to the correlation between mobile phone features and pricing.
 
+<p align="center">
+  <img src="Mobile Price Prediction Images/graph-1.png" alt="graph-1">
+</p>
+
 ## 3) Feature Engineering:
 Apply rigorous feature engineering techniques to enhance the robustness of the dataset.
 Incorporate log-normal distribution and address missing data points strategically.
