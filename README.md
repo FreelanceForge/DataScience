@@ -114,3 +114,5 @@ To make the Mobile Price Prediction System accessible and user-friendly, a Flask
 - User Interface:
   - Designed a user-friendly interface for users to input mobile phone features.
   - Integrated the trained model to predict and display the estimated price range.
+- Deployment:
+  - Deployed the Flask app to a hosting platform, making it accessible to users for on-the-fly mobile price predictions.
